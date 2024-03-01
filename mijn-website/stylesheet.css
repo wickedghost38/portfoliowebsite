@@ -1,0 +1,25 @@
+.head{
+    position: relative;
+    color: aqua;
+    background-color: yellowgreen;
+}
+
+.h3{
+    color: blueviolet;
+}
+
+.h2{
+    color: blue;
+}
+
+body{
+    background-color: bisque;
+}
+
+.overmij{
+    background-color: deeppink;
+    
+}
+nav li{
+    display: inline-block;
+}
