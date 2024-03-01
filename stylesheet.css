@@ -1,7 +1,7 @@
 .head{
     position: relative;
     color: aqua;
-    background-color: yellowgreen;
+    background-color: black;
 }
 
 .h3{
@@ -17,9 +17,13 @@ body{
 }
 
 .overmij{
-    background-color: deeppink;
+    background-color: red;
     
 }
 nav li{
     display: inline-block;
+}
+
+p{
+    color: white;
 }
