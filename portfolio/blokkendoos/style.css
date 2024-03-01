@@ -1,0 +1,6 @@
+body{
+    background-color: rgb(0, 180, 240);
+}
+li{
+   display: inline-block;
+}
