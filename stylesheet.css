@@ -20,7 +20,19 @@ body{
     background-color: lightgrey;
     
 }
-nav li{
-    display: inline-block;
-}
 
+nav{
+    color:rgb(0, 0, 0);
+    background-color:#295050; 
+    flex-direction: row;
+    overflow: hidden;
+    padding: 20px 10px;
+    display: flex;
+    height: 30px;
+}
+a{
+    margin-right: 10px;
+    margin-left: 10px;
+    text-decoration: none; 
+    color:gray
+}
